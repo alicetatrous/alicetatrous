@@ -43,7 +43,7 @@ Respect and inclusivity are paramount in all interactions. I adhere to a Code of
 For any inquiries, partnership opportunities, or just to say hello, you can reach me at alicetatrous@gmail.com.
 
 ## 🙏 **Thank You:**
-Thank you for visiting my GitHub profile! I look forward to connecting with fellow developers, learning from each other, and making a positive impact on the world through technology.
+Thank you for visiting my GitHub profile! I look forward to connecting with fellow analysts, learning from each other, and making a positive impact on the world through technology.
 
 <!-- Thanks for visiting my GitHub profile! -->
 <!-- Don't forget to leave a ⭐ on any repository you found helpful! -->
