@@ -13,7 +13,7 @@ I'm Alice, a passionate tech enthusiast! I love learning new things and developi
 <!-- Include your interests, skills, and any other relevant personal information -->
 
 ## 🔭 Current Projects
-I have worked a some projects highlighting my SQL and Tableau skills! I am currently working on a project in R studio to further develop my skills using R. I am eager to be apart of more projects that reflect my passion, creativity, and dedication.
+I have worked on some projects highlighting my SQL and Tableau skills! I am currently working on projects in R studio to further develop my skills using R. I am eager to be apart of more projects that reflect my passion, creativity, and dedication.
 <!-- List and provide brief descriptions of your current projects -->
 <!-- Include links to the repositories or project websites -->
 
@@ -35,9 +35,6 @@ Feel free to connect with me on LinkedIn
 ## ⚡ Fun Fact
 I love to play video games, read, and crochet! I am currently playing Dark Souls Remastered and NieR Replicant! I have an adorable kitten named Mars, inspired by Veronica Mars! :)
 <!-- Add a fun or interesting fact about yourself -->
-
-## 📜 **Code of Conduct:**
-Respect and inclusivity are paramount in all interactions. I adhere to a Code of Conduct that fosters a welcoming and safe environment for everyone.
 
 ## 📧 **Contact:**
 For any inquiries, partnership opportunities, or just to say hello, you can reach me at alicetatrous@gmail.com.
