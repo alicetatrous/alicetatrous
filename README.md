@@ -33,7 +33,7 @@ Feel free to connect with me on LinkedIn
 <!-- Make it easy for others to reach out to you -->
 
 ## ⚡ Fun Fact
-I love to play video games, read, and crochet! I am currently playing Dark Souls Remastered and NieR Replicant! I have an adorable 
+I love to play video games, read, and crochet! I am currently playing Dark Souls Remastered and NieR Replicant! I have an adorable kitten named Mars, inspired by Veronica Mars! :)
 <!-- Add a fun or interesting fact about yourself -->
 
 ## 📜 **Code of Conduct:**
